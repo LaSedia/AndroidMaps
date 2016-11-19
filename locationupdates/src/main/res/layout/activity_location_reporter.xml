@@ -13,4 +13,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/TVReportLocation" />
+
+    <Button
+        android:text="Get Address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TVReportLocation"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="44dp"
+        android:id="@+id/BtnGetAddress" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TvAddress"
+        android:layout_below="@+id/BtnGetAddress"
+        android:layout_alignStart="@+id/BtnGetAddress"
+        android:layout_marginTop="41dp" />
 </RelativeLayout>

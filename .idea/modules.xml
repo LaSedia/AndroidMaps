@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidMaps.iml" filepath="$PROJECT_DIR$/AndroidMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapsSamples.iml" filepath="$PROJECT_DIR$/MapsSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/earthquakemapsample/earthquakemapsample.iml" filepath="$PROJECT_DIR$/earthquakemapsample/earthquakemapsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/earthquakemapsample/earthquakemapsample.iml" filepath="$PROJECT_DIR$/earthquakemapsample/earthquakemapsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationupdates/locationupdates.iml" filepath="$PROJECT_DIR$/locationupdates/locationupdates.iml" />
       <module fileurl="file://$PROJECT_DIR$/locationupdates/locationupdates.iml" filepath="$PROJECT_DIR$/locationupdates/locationupdates.iml" />
     </modules>
   </component>
